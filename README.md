@@ -1,5 +1,6 @@
-### Hi there 👋
-
+## Hi This is Hyunjun Huh's Github 👋
+### Studying:
+<img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=61DAFB" />
 <!--
 **HUH99/HUH99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
