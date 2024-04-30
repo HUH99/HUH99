@@ -1,9 +1,9 @@
-## Hi This is Hyunjun Huh's Github 👋
-### Studying:
-<img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=#3776AB" />
-<img src="https://img.shields.io/badge/pytorch-20232a.svg?style=for-the-badge&logo=pytorch&logoColor=#EE4C2C" />
-<img src="https://img.shields.io/badge/c-20232a.svg?style=for-the-badge&logo=c&logoColor=#A8B9CC" />
-<img src="https://img.shields.io/badge/cpp-20232a.svg?style=for-the-badge&logo=cpp&logoColor=#00599C" />
+### Hi There. This is Hyunjun Huh's Github 👋
+#### Studying:
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
 <!--
 **HUH99/HUH99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
